@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'greetwave'
+puts GreetWave.hi(ARGV[0])
